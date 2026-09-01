@@ -193,3 +193,9 @@ h2 {
     text-decoration: none;
     transition: all.02s ease;
 }
+
+
+#aboutme p {
+    padding: 15px;
+    line-height: 1.6;
+}
